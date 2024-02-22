@@ -36,7 +36,8 @@ Bias
 <p>
 <img align="left" src="./bias.jpg">        
 </p>  
-<br/>
+<br/> 
+<br/> 
 Gap  
 margin과 동일한 효과, 각각 뷰 사이의 gap만을 지정 할 수 있다.  
 ```xml
